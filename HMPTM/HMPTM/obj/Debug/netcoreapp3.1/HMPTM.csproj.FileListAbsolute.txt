@@ -1,0 +1,17 @@
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\bin\Debug\netcoreapp3.1\HMPTM.exe
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\bin\Debug\netcoreapp3.1\HMPTM.deps.json
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\bin\Debug\netcoreapp3.1\HMPTM.runtimeconfig.json
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\bin\Debug\netcoreapp3.1\HMPTM.runtimeconfig.dev.json
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\bin\Debug\netcoreapp3.1\HMPTM.dll
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\bin\Debug\netcoreapp3.1\HMPTM.pdb
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\HMPTM.Form1.resources
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\HMPTM.csproj.GenerateResource.cache
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\HMPTM.AssemblyInfoInputs.cache
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\HMPTM.AssemblyInfo.cs
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\HMPTM.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\HMPTM.dll
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\HMPTM.pdb
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\HMPTM.genruntimeconfig.cache
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\bin\Debug\netcoreapp3.1\en-US\HMPTM.resources.dll
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\HMPTM.Form1.en-US.resources
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\Pudding\PuddingProjects\HMPTM\HMPTM\obj\Debug\netcoreapp3.1\en-US\HMPTM.resources.dll
