@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliss\\Desktop\\GuI\\ProgramFunprojects\\Pudding\\PuddingProjects\\HMPTM\\HMPTM\\HMPTM.csproj": {}
+    "D:\\Documents\\GitHub\\HMPTM\\HMPTM\\HMPTM\\HMPTM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliss\\Desktop\\GuI\\ProgramFunprojects\\Pudding\\PuddingProjects\\HMPTM\\HMPTM\\HMPTM.csproj": {
+    "D:\\Documents\\GitHub\\HMPTM\\HMPTM\\HMPTM\\HMPTM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliss\\Desktop\\GuI\\ProgramFunprojects\\Pudding\\PuddingProjects\\HMPTM\\HMPTM\\HMPTM.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\HMPTM\\HMPTM\\HMPTM\\HMPTM.csproj",
         "projectName": "HMPTM",
-        "projectPath": "C:\\Users\\aliss\\Desktop\\GuI\\ProgramFunprojects\\Pudding\\PuddingProjects\\HMPTM\\HMPTM\\HMPTM.csproj",
+        "projectPath": "D:\\Documents\\GitHub\\HMPTM\\HMPTM\\HMPTM\\HMPTM.csproj",
         "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliss\\Desktop\\GuI\\ProgramFunprojects\\Pudding\\PuddingProjects\\HMPTM\\HMPTM\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\HMPTM\\HMPTM\\HMPTM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aliss\\AppData\\Roaming\\NuGet\\NuGet.Config",

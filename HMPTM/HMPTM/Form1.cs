@@ -24,7 +24,7 @@ namespace HMPTM
             DropDownContainer.Items.AddRange(fildContainers);
             DropDownFiller.SelectedIndex = 0;
             DropDownContainer.SelectedIndex = 0;
-           
+            this.button1.Click += new EventHandler(button1_Click);
             
            
         }
@@ -56,7 +56,13 @@ namespace HMPTM
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Calculate();
         }
+        private void Calculate()
+        {
+            this.textBox2.Text = "The button was pushed!";
+        }
+
+        
     }
 }
