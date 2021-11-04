@@ -16,6 +16,8 @@ namespace HMPTM
             {"Pudding", "Water"};
         static string[] fildContainers =
             {"Taj Mahal",""};
+        static double fillingVolume, containerVolume;
+        static string fillerSelctstring, containerSelctstring;
 
         public Form1()
         {
@@ -25,17 +27,13 @@ namespace HMPTM
             DropDownFiller.SelectedIndex = 0;
             DropDownContainer.SelectedIndex = 0;
             this.button1.Click += new EventHandler(button1_Click);
-            
-           
+          
         }
 
         private void DropDownFiller_SelectedIndexChanged(object sender, EventArgs e)
         {
             object fillerSelected = DropDownFiller.SelectedItem;
-            string fillerSelctstring = fillerSelected.ToString();
-            
-
-            
+            fillerSelctstring = fillerSelected.ToString();
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
@@ -46,7 +44,7 @@ namespace HMPTM
         private void DropDownContainer_SelectedIndexChanged(object sender, EventArgs e)
         {
             object ContainerSelected = DropDownContainer.SelectedItem;
-            string fillerSelctstring = ContainerSelected.ToString();
+            containerSelctstring = ContainerSelected.ToString();
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -57,8 +55,28 @@ namespace HMPTM
         private void button1_Click(object sender, EventArgs e)
         {
             Calculate();
+            DisplayinTextbox();
         }
         private void Calculate()
+        {
+            switch (fillerSelctstring)
+            {
+                case "pudding":
+                    fillingVolume = 0;
+                    break;
+                case "water":
+                    fillingVolume = 0;
+                    break;
+
+            }
+            switch (containerSelctstring)
+            {
+                case "Taj Mahal":
+                    containerVolume = 0;
+                    break;
+            }
+        }
+        private void DisplayinTextbox()
         {
             this.textBox2.Text = "The button was pushed!";
         }
